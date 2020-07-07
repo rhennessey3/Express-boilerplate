@@ -14,9 +14,9 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 6. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "express-boilerplate",`
 
 ## Scripts
-*Start the application `npm start`
-*Start nodemon for the application `npm run dev`
-*Run the tests `npm test`
+* Start the application `npm start`
+* Start nodemon for the application `npm run dev`
+* Run the tests `npm test`
 
 ## Deploying
 
